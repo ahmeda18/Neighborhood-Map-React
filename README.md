@@ -1,6 +1,6 @@
 # Neighborhood-Map-React
 
-Neighborhood Map is a web application that shows infomraiton about Seattle Shopping Centers.
+Neighborhood Map is a web application that shows information about Seattle Shopping Centers.
 
 ## Getting Started
 
